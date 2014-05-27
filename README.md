@@ -1,7 +1,7 @@
 V-Plan
 ======
 <a>V-Plan ist die Vertretungsplan App für das Gymnasium der Stadt Würselen.</a>
-<a style="background: none repeat scroll 0% 0% rgb(0, 0, 0);" href="https://github.com/SamuelWei/V-Plan/blob/master/V-Plan.apk"> Download</a>
+<a  href="https://github.com/SamuelWei/V-Plan/blob/master/V-Plan.apk"> Download</a>
 <table border="0px" width="100%">
 <tr>
 <td>
