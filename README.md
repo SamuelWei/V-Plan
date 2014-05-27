@@ -1,6 +1,16 @@
 V-Plan
 ======
 V-Plan ist die Vertretungsplan App für das Gymnasium der Stadt Würselen.
-<img style="padding:50px;" width="200px" src="http://v-plan.tk/img/screen1.png"/>
-![screen 2](http://v-plan.tk/img/screen2.png)
-![screen 3](http://v-plan.tk/img/screen3.png)
+<table width="100%">
+<tr>
+<td>
+<img  width="200px" src="http://v-plan.tk/img/screen1.png"/>
+</td>
+<td>
+<img  width="200px" src="http://v-plan.tk/img/screen2.png"/>
+</td>
+<td>
+<img  width="200px" src="http://v-plan.tk/img/screen3.png"/>
+</td>
+</tr>
+</table>
